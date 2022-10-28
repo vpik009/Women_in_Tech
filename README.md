@@ -13,7 +13,7 @@ Recommends videos for users to watch based on their described interests in the c
 
 ## Forum
 
-Provides a submodule for users to share their thoughts/interests with other users.
+Provides a platform for users to share their thoughts/interests with other users.
 
 ## Admin Dashboard
 
